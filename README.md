@@ -1,5 +1,4 @@
-# SR-Turb-DM
-# Fluid-Flow Training and Inference
+## Fluid-Flow Training and Inference
 This repository provides training and inference code for experiments presented in our paper: High-fidelity turbulent flow field reconstruction using a residual-based diffusion model
 
 ## Running the Code
