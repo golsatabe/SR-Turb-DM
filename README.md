@@ -3,7 +3,7 @@ To run either training or inference, start by checking the `run.sh` file
 in the corresponding directory.** Each script contains the launch command,
 the configuration-file path, and the settings needed to start its workflow.
 
-## Acknowledgments
+## Acknowledgment
 The fluid-flow super-resolution training and inference components also
 build on [ResShift](https://github.com/zsyOAOA/ResShift).
 We thank its authors for releasing their implementation.
