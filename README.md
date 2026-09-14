@@ -8,7 +8,7 @@ The fluid-flow super-resolution training and inference components also
 build on [ResShift](https://github.com/zsyOAOA/ResShift).
 We thank its authors for releasing their implementation.
 
-## References
+## Reference
 ```bibtex
 @article{jamaat2026high,
   title={High-fidelity turbulent flow field reconstruction using a residual-based diffusion model},
