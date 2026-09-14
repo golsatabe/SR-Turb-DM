@@ -1,6 +1,6 @@
 ## Running the Code
 To run either training or inference, start by checking the `run.sh` file
-in the corresponding directory.** Each script contains the launch command,
+in the corresponding directory. Each script contains the launch command,
 the configuration-file path, and the settings needed to start its workflow.
 
 ## Acknowledgment
