@@ -4,7 +4,7 @@ in the corresponding directory. Each script contains the launch command,
 the configuration-file path, and the settings needed to start its workflow.
 
 ## Acknowledgment
-The training and inference components are based on on [ResShift](https://github.com/zsyOAOA/ResShift).
+The training and inference components are based on [ResShift](https://github.com/zsyOAOA/ResShift).
 We thank its authors for releasing their implementation.
 
 ## Reference
