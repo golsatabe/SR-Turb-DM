@@ -1,6 +1,4 @@
-## Training and Inference
-This repository provides training and inference code for experiments presented in our paper: High-fidelity turbulent flow field reconstruction using a residual-based diffusion model
-### Running the Code
+## Running the Code
 To run either training or inference, start by checking the `run.sh` file
 in the corresponding directory.** Each script contains the launch command,
 the configuration-file path, and the settings needed to start its workflow.
